@@ -1,0 +1,9 @@
+import { createRoot } from 'react-dom/client';
+import { useEffect,useState } from 'react';
+import { MobileApp } from './mobile-app';
+import { currentUser,type LocalUser } from './lib/local-store';
+import { properties } from './lib/catalog';
+import Link from './lib/router';
+import './styles.css';
+function App(){const [path,setPath]=useState(window.location.pathname),[user,setUser]=useState<LocalUser|null>(null),[storeError,setStoreError]=useState('');useEffect(()=>{function account(){try{setUser(currentUser());setStoreError('');}catch(e){setStoreError((e as Error).message);}}function route(){setPath(window.location.pathname);}account();window.addEventListener('vertice:account',account);window.addEventListener('storage',account);window.addEventListener('popstate',route);window.addEventListener('vertice:navigate',route);return()=>{window.removeEventListener('vertice:account',account);window.removeEventListener('storage',account);window.removeEventListener('popstate',route);window.removeEventListener('vertice:navigate',route);};},[]);const property=properties.find(p=>path===`/imovel/${p.slug}`);const page=path==='/buscar'?'search':path==='/salvos'?'saved':path==='/conta'?'account':property?'detail':'home';useEffect(()=>{document.title=property?`${property.title} · ${property.code} | Vértice`:`${page==='saved'?'Imóveis salvos':page==='account'?'Minha conta':page==='search'?'Buscar imóveis':'Seu próximo endereço'} | Vértice Mobile`;},[path,page,property]);if(!['/','/buscar','/salvos','/conta'].includes(path)&&!property)return <main className="app-shell empty-page"><h1>Imóvel não encontrado</h1><p>Confira as opções do catálogo.</p><Link href="/buscar" className="primary-btn">Buscar imóveis</Link></main>;return <>{storeError&&<div role="alert" className="storage-alert">{storeError}</div>}<MobileApp key={path} page={page} user={user} property={property}/></>;}
+createRoot(document.getElementById('root')!).render(<App/>);
