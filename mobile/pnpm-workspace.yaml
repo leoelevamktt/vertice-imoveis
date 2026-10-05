@@ -1,0 +1,4 @@
+# O esbuild valida e prepara seu binário durante a instalação.
+# Aprovação explícita para o pnpm 11 usado no build da Vercel.
+allowBuilds:
+  esbuild: true
