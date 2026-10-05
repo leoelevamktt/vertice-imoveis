@@ -1,0 +1,1842 @@
+[
+  {
+    "code": "VER-1001",
+    "slug": "ver-1001",
+    "type": "Casa",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Vila Madalena",
+    "price": 2450000,
+    "area": 280,
+    "bedrooms": 4,
+    "suites": 3,
+    "bathrooms": 4,
+    "parking": 3,
+    "mode": "venda",
+    "title": "Casa contemporânea com piscina e jardim",
+    "features": [
+      "Piscina",
+      "Jardim",
+      "Churrasqueira",
+      "Varanda",
+      "Área gourmet",
+      "Ar-condicionado"
+    ],
+    "condominium": 980,
+    "iptu": 2800,
+    "featured": true,
+    "gallery": [
+      {
+        "id": "pool-lawn",
+        "url": "https://images.unsplash.com/photo-1783125127199-860da9744dcc",
+        "alt": "Casa moderna com piscina e jardim",
+        "credit": "Salvo Media LLC",
+        "source": "https://unsplash.com/photos/a-modern-house-with-a-swimming-pool-and-green-lawn-ylzGfY-xzBY"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Casa contemporânea com piscina e jardim. Este casa em Vila Madalena, São Paulo, reúne 280 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 4 quartos, com 3 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com piscina, jardim, churrasqueira, varanda. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Vila Madalena, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-05",
+    "demo": true
+  },
+  {
+    "code": "VER-1002",
+    "slug": "ver-1002",
+    "type": "Apartamento",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Pinheiros",
+    "price": 1280000,
+    "area": 108,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "venda",
+    "title": "Apartamento iluminado com ambientes integrados",
+    "features": [
+      "Varanda",
+      "Academia",
+      "Portaria 24h",
+      "Elevador",
+      "Pet friendly"
+    ],
+    "condominium": 1200,
+    "iptu": 2200,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "apartment",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "alt": "Sala de apartamento com ambientes integrados",
+        "credit": "Deborah Cortelazzi",
+        "source": "https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Apartamento iluminado com ambientes integrados. Este apartamento em Pinheiros, São Paulo, reúne 108 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, academia, portaria 24h, elevador. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Pinheiros, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-05",
+    "demo": true
+  },
+  {
+    "code": "VER-1003",
+    "slug": "ver-1003",
+    "type": "Casa em condomínio",
+    "city": "Barueri",
+    "state": "SP",
+    "neighborhood": "Alphaville",
+    "price": 3200000,
+    "area": 360,
+    "bedrooms": 4,
+    "suites": 4,
+    "bathrooms": 5,
+    "parking": 4,
+    "mode": "venda",
+    "title": "Casa de alto padrão cercada por natureza",
+    "features": [
+      "Piscina",
+      "Jardim",
+      "Área gourmet",
+      "Churrasqueira",
+      "Condomínio fechado",
+      "Portaria 24h"
+    ],
+    "condominium": 1450,
+    "iptu": 4800,
+    "featured": true,
+    "gallery": [
+      {
+        "id": "brazil-house-1",
+        "url": "https://images.unsplash.com/photo-1760067537293-6b30141d6a52",
+        "alt": "Casa com fachada de madeira e pedra",
+        "credit": "Alef Morais",
+        "source": "https://unsplash.com/photos/modern-house-with-wood-and-stone-exterior-hPu2n_SfV7Q"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      },
+      {
+        "id": "hero-pool",
+        "url": "https://images.unsplash.com/photo-1766603636617-0c71c2188160",
+        "alt": "Casa contemporânea com piscina e área de lazer",
+        "credit": "Alef Morais",
+        "source": "https://unsplash.com/photos/modern-house-with-pool-and-outdoor-lounge-area-pzVKBM1fbJk"
+      }
+    ],
+    "description": [
+      "Casa de alto padrão cercada por natureza. Este casa em condomínio em Alphaville, Barueri, reúne 360 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 4 quartos, com 4 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com piscina, jardim, área gourmet, churrasqueira. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Alphaville, com acesso a serviços, comércio e opções de mobilidade em Barueri. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-05",
+    "demo": true
+  },
+  {
+    "code": "VER-1004",
+    "slug": "ver-1004",
+    "type": "Apartamento",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Moema",
+    "price": 6800,
+    "area": 92,
+    "bedrooms": 2,
+    "suites": 2,
+    "bathrooms": 3,
+    "parking": 2,
+    "mode": "aluguel",
+    "title": "Apartamento com varanda em localização privilegiada",
+    "features": [
+      "Varanda",
+      "Mobiliado",
+      "Academia",
+      "Piscina",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 1150,
+    "iptu": 1800,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Apartamento com varanda em localização privilegiada. Este apartamento em Moema, São Paulo, reúne 92 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 2 quartos, com 2 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, mobiliado, academia, piscina. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Moema, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-05",
+    "demo": true
+  },
+  {
+    "code": "VER-1005",
+    "slug": "ver-1005",
+    "type": "Casa",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Cambuí",
+    "price": 1890000,
+    "area": 240,
+    "bedrooms": 3,
+    "suites": 3,
+    "bathrooms": 4,
+    "parking": 3,
+    "mode": "venda",
+    "title": "Casa com arquitetura integrada e jardim privativo",
+    "features": [
+      "Jardim",
+      "Varanda",
+      "Ar-condicionado",
+      "Área gourmet",
+      "Churrasqueira"
+    ],
+    "condominium": 0,
+    "iptu": 2600,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "brazil-house-3",
+        "url": "https://images.unsplash.com/photo-1760067538022-8ef8739b1b18",
+        "alt": "Casa de madeira com janelas amplas e palmeiras",
+        "credit": "Alef Morais",
+        "source": "https://unsplash.com/photos/modern-wooden-house-with-large-windows-and-palm-trees-u2l_e5YS548"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Casa com arquitetura integrada e jardim privativo. Este casa em Cambuí, Campinas, reúne 240 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 3 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com jardim, varanda, ar-condicionado, área gourmet. A área externa permite aproveitar momentos de descanso e receber amigos.",
+      "Localização em Cambuí, com acesso a serviços, comércio e opções de mobilidade em Campinas. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-05",
+    "demo": true
+  },
+  {
+    "code": "VER-1006",
+    "slug": "ver-1006",
+    "type": "Cobertura",
+    "city": "Santos",
+    "state": "SP",
+    "neighborhood": "Gonzaga",
+    "price": 2450000,
+    "area": 225,
+    "bedrooms": 3,
+    "suites": 2,
+    "bathrooms": 4,
+    "parking": 3,
+    "mode": "venda",
+    "title": "Cobertura espaçosa com terraço e área gourmet",
+    "features": [
+      "Varanda",
+      "Área gourmet",
+      "Churrasqueira",
+      "Piscina",
+      "Elevador",
+      "Vista livre"
+    ],
+    "condominium": 2100,
+    "iptu": 3900,
+    "featured": true,
+    "gallery": [
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Cobertura espaçosa com terraço e área gourmet. Este cobertura em Gonzaga, Santos, reúne 225 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 2 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, área gourmet, churrasqueira, piscina. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Gonzaga, com acesso a serviços, comércio e opções de mobilidade em Santos. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-05",
+    "demo": true
+  },
+  {
+    "code": "VER-1007",
+    "slug": "ver-1007",
+    "type": "Studio",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Bela Vista",
+    "price": 2600,
+    "area": 35,
+    "bedrooms": 1,
+    "suites": 0,
+    "bathrooms": 1,
+    "parking": 0,
+    "mode": "aluguel",
+    "title": "Studio mobiliado perto da Avenida Paulista",
+    "features": [
+      "Mobiliado",
+      "Academia",
+      "Elevador",
+      "Portaria 24h",
+      "Pet friendly"
+    ],
+    "condominium": 550,
+    "iptu": 480,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "apartment",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "alt": "Sala de apartamento com ambientes integrados",
+        "credit": "Deborah Cortelazzi",
+        "source": "https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Studio mobiliado perto da Avenida Paulista. Este studio em Bela Vista, São Paulo, reúne 35 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 1 quarto, além de espaços para viver com conforto.",
+      "O imóvel conta com mobiliado, academia, elevador, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Bela Vista, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-04",
+    "demo": true
+  },
+  {
+    "code": "VER-1008",
+    "slug": "ver-1008",
+    "type": "Casa em condomínio",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Campolim",
+    "price": 1650000,
+    "area": 215,
+    "bedrooms": 3,
+    "suites": 3,
+    "bathrooms": 4,
+    "parking": 2,
+    "mode": "venda",
+    "title": "Casa em condomínio com lazer e segurança",
+    "features": [
+      "Condomínio fechado",
+      "Portaria 24h",
+      "Jardim",
+      "Churrasqueira",
+      "Área gourmet"
+    ],
+    "condominium": 680,
+    "iptu": 2100,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "modern-house-wood",
+        "url": "https://images.unsplash.com/photo-1628744448839-a475cc0e90c3",
+        "alt": "Casa moderna com detalhes em madeira",
+        "credit": "Zac Gudakov",
+        "source": "https://unsplash.com/photos/white-and-brown-wooden-house-near-green-trees-under-blue-sky-during-daytime-w-W1Nznmw3w"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Casa em condomínio com lazer e segurança. Este casa em condomínio em Campolim, Sorocaba, reúne 215 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 3 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com condomínio fechado, portaria 24h, jardim, churrasqueira. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Campolim, com acesso a serviços, comércio e opções de mobilidade em Sorocaba. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-04",
+    "demo": true
+  },
+  {
+    "code": "VER-1009",
+    "slug": "ver-1009",
+    "type": "Apartamento",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Taquaral",
+    "price": 780000,
+    "area": 85,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "venda",
+    "title": "Apartamento com varanda e lazer completo",
+    "features": [
+      "Piscina",
+      "Varanda",
+      "Academia",
+      "Playground",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 750,
+    "iptu": 1450,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento com varanda e lazer completo. Este apartamento em Taquaral, Campinas, reúne 85 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com piscina, varanda, academia, playground. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Taquaral, com acesso a serviços, comércio e opções de mobilidade em Campinas. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-04",
+    "demo": true
+  },
+  {
+    "code": "VER-1010",
+    "slug": "ver-1010",
+    "type": "Apartamento",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Perdizes",
+    "price": 980000,
+    "area": 97,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "venda",
+    "title": "Apartamento amplo em rua arborizada",
+    "features": [
+      "Varanda",
+      "Elevador",
+      "Pet friendly",
+      "Portaria 24h"
+    ],
+    "condominium": 980,
+    "iptu": 1700,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Apartamento amplo em rua arborizada. Este apartamento em Perdizes, São Paulo, reúne 97 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, elevador, pet friendly, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Perdizes, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-04",
+    "demo": true
+  },
+  {
+    "code": "VER-1011",
+    "slug": "ver-1011",
+    "type": "Casa",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Europa",
+    "price": 720000,
+    "area": 150,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "venda",
+    "title": "Casa térrea com quintal e espaço para a família",
+    "features": [
+      "Jardim",
+      "Churrasqueira",
+      "Pet friendly"
+    ],
+    "condominium": 0,
+    "iptu": 980,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "small-house",
+        "url": "https://images.unsplash.com/photo-1706799206215-0d2ab94623ec",
+        "alt": "Casa térrea branca com jardim",
+        "credit": "Roger Starnes Sr",
+        "source": "https://unsplash.com/photos/a-small-white-house-with-a-black-roof-qMxz8qxU83g"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Casa térrea com quintal e espaço para a família. Este casa em Jardim Europa, Sorocaba, reúne 150 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com jardim, churrasqueira, pet friendly. A área externa permite aproveitar momentos de descanso e receber amigos.",
+      "Localização em Jardim Europa, com acesso a serviços, comércio e opções de mobilidade em Sorocaba. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-04",
+    "demo": true
+  },
+  {
+    "code": "VER-1012",
+    "slug": "ver-1012",
+    "type": "Sala comercial",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Itaim Bibi",
+    "price": 5200,
+    "area": 65,
+    "bedrooms": 0,
+    "suites": 0,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "aluguel",
+    "title": "Sala comercial pronta para o seu escritório",
+    "features": [
+      "Ar-condicionado",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 980,
+    "iptu": 1800,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "office",
+        "url": "https://images.unsplash.com/photo-1572025442811-aa5146a780fb",
+        "alt": "Ambiente de escritório com estações de trabalho",
+        "credit": "Slidebean",
+        "source": "https://unsplash.com/photos/empty-meeting-room-6MtJ-y1hzTs"
+      }
+    ],
+    "description": [
+      "Sala comercial pronta para o seu escritório. Este sala comercial em Itaim Bibi, São Paulo, reúne 65 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. Os ambientes permitem organizar estações de trabalho e receber clientes com praticidade.",
+      "O imóvel conta com ar-condicionado, elevador, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Itaim Bibi, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-04",
+    "demo": true
+  },
+  {
+    "code": "VER-1013",
+    "slug": "ver-1013",
+    "type": "Apartamento",
+    "city": "Santos",
+    "state": "SP",
+    "neighborhood": "Boqueirão",
+    "price": 4700,
+    "area": 100,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "aluguel",
+    "title": "Apartamento aconchegante a poucos passos da praia",
+    "features": [
+      "Varanda",
+      "Elevador",
+      "Pet friendly",
+      "Portaria 24h"
+    ],
+    "condominium": 890,
+    "iptu": 1900,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento aconchegante a poucos passos da praia. Este apartamento em Boqueirão, Santos, reúne 100 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, elevador, pet friendly, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Boqueirão, com acesso a serviços, comércio e opções de mobilidade em Santos. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-03",
+    "demo": true
+  },
+  {
+    "code": "VER-1014",
+    "slug": "ver-1014",
+    "type": "Casa em condomínio",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Sousas",
+    "price": 2650000,
+    "area": 320,
+    "bedrooms": 4,
+    "suites": 4,
+    "bathrooms": 5,
+    "parking": 4,
+    "mode": "venda",
+    "title": "Casa com piscina e lazer para receber amigos",
+    "features": [
+      "Piscina",
+      "Condomínio fechado",
+      "Jardim",
+      "Área gourmet",
+      "Churrasqueira",
+      "Portaria 24h"
+    ],
+    "condominium": 980,
+    "iptu": 3600,
+    "featured": true,
+    "gallery": [
+      {
+        "id": "pool-palms",
+        "url": "https://images.unsplash.com/photo-1763479142525-1a3b1f7800c2",
+        "alt": "Casa com piscina e palmeiras",
+        "credit": "Shoham Avisrur",
+        "source": "https://unsplash.com/photos/a-modern-house-with-a-swimming-pool-and-palm-trees-fDFWeQaHx9A"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      },
+      {
+        "id": "hero-pool",
+        "url": "https://images.unsplash.com/photo-1766603636617-0c71c2188160",
+        "alt": "Casa contemporânea com piscina e área de lazer",
+        "credit": "Alef Morais",
+        "source": "https://unsplash.com/photos/modern-house-with-pool-and-outdoor-lounge-area-pzVKBM1fbJk"
+      }
+    ],
+    "description": [
+      "Casa com piscina e lazer para receber amigos. Este casa em condomínio em Sousas, Campinas, reúne 320 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 4 quartos, com 4 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com piscina, condomínio fechado, jardim, área gourmet. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Sousas, com acesso a serviços, comércio e opções de mobilidade em Campinas. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-03",
+    "demo": true
+  },
+  {
+    "code": "VER-1015",
+    "slug": "ver-1015",
+    "type": "Apartamento",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Vila Mariana",
+    "price": 860000,
+    "area": 78,
+    "bedrooms": 2,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "venda",
+    "title": "Apartamento moderno perto do metrô",
+    "features": [
+      "Academia",
+      "Piscina",
+      "Playground",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 680,
+    "iptu": 1300,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "apartment",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "alt": "Sala de apartamento com ambientes integrados",
+        "credit": "Deborah Cortelazzi",
+        "source": "https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento moderno perto do metrô. Este apartamento em Vila Mariana, São Paulo, reúne 78 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 2 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com academia, piscina, playground, elevador. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Vila Mariana, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-03",
+    "demo": true
+  },
+  {
+    "code": "VER-1016",
+    "slug": "ver-1016",
+    "type": "Terreno",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Éden",
+    "price": 350000,
+    "area": 450,
+    "bedrooms": 0,
+    "suites": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "mode": "venda",
+    "title": "Terreno amplo para construir seu novo projeto",
+    "features": [
+      "Vista livre"
+    ],
+    "condominium": 0,
+    "iptu": 650,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "land",
+        "url": "https://images.unsplash.com/photo-1567986096906-186c34943cc1",
+        "alt": "Vista aérea de terrenos verdes",
+        "credit": "Jason Dent",
+        "source": "https://unsplash.com/photos/aerial-photography-of-green-fields-CfuSQR2HVMY"
+      }
+    ],
+    "description": [
+      "Terreno amplo para construir seu novo projeto. Este terreno em Éden, Sorocaba, reúne 450 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. Um espaço para planejar uma residência com jardim, lazer e ambientes sob medida.",
+      "O imóvel conta com vista livre. A área externa permite aproveitar momentos de descanso e receber amigos.",
+      "Localização em Éden, com acesso a serviços, comércio e opções de mobilidade em Sorocaba. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-03",
+    "demo": true
+  },
+  {
+    "code": "VER-1017",
+    "slug": "ver-1017",
+    "type": "Apartamento",
+    "city": "Barueri",
+    "state": "SP",
+    "neighborhood": "Alphaville",
+    "price": 5200,
+    "area": 95,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "aluguel",
+    "title": "Apartamento completo com vista livre",
+    "features": [
+      "Varanda",
+      "Vista livre",
+      "Piscina",
+      "Academia",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 980,
+    "iptu": 1650,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento completo com vista livre. Este apartamento em Alphaville, Barueri, reúne 95 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, vista livre, piscina, academia. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Alphaville, com acesso a serviços, comércio e opções de mobilidade em Barueri. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-03",
+    "demo": true
+  },
+  {
+    "code": "VER-1018",
+    "slug": "ver-1018",
+    "type": "Casa",
+    "city": "Santos",
+    "state": "SP",
+    "neighborhood": "Ponta da Praia",
+    "price": 1490000,
+    "area": 220,
+    "bedrooms": 3,
+    "suites": 2,
+    "bathrooms": 3,
+    "parking": 2,
+    "mode": "venda",
+    "title": "Casa com quintal em bairro residencial",
+    "features": [
+      "Jardim",
+      "Churrasqueira",
+      "Varanda",
+      "Pet friendly"
+    ],
+    "condominium": 0,
+    "iptu": 2800,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "modern-house-grey",
+        "url": "https://images.unsplash.com/photo-1628744448953-89b6b70965c7",
+        "alt": "Fachada de casa contemporânea",
+        "credit": "Zac Gudakov",
+        "source": "https://unsplash.com/photos/white-and-gray-wooden-house-near-green-trees-during-daytime-rUI9_ZKbzX4"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Casa com quintal em bairro residencial. Este casa em Ponta da Praia, Santos, reúne 220 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 2 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com jardim, churrasqueira, varanda, pet friendly. A área externa permite aproveitar momentos de descanso e receber amigos.",
+      "Localização em Ponta da Praia, com acesso a serviços, comércio e opções de mobilidade em Santos. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-03",
+    "demo": true
+  },
+  {
+    "code": "VER-1019",
+    "slug": "ver-1019",
+    "type": "Apartamento",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Cambuí",
+    "price": 4200,
+    "area": 76,
+    "bedrooms": 2,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "aluguel",
+    "title": "Apartamento mobiliado no coração do Cambuí",
+    "features": [
+      "Mobiliado",
+      "Ar-condicionado",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 750,
+    "iptu": 1200,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento mobiliado no coração do Cambuí. Este apartamento em Cambuí, Campinas, reúne 76 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 2 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com mobiliado, ar-condicionado, elevador, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Cambuí, com acesso a serviços, comércio e opções de mobilidade em Campinas. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-02",
+    "demo": true
+  },
+  {
+    "code": "VER-1020",
+    "slug": "ver-1020",
+    "type": "Casa em condomínio",
+    "city": "Barueri",
+    "state": "SP",
+    "neighborhood": "Tamboré",
+    "price": 4600000,
+    "area": 460,
+    "bedrooms": 5,
+    "suites": 5,
+    "bathrooms": 6,
+    "parking": 4,
+    "mode": "venda",
+    "title": "Residência exclusiva com piscina e área gourmet",
+    "features": [
+      "Piscina",
+      "Área gourmet",
+      "Condomínio fechado",
+      "Churrasqueira",
+      "Jardim",
+      "Ar-condicionado",
+      "Portaria 24h"
+    ],
+    "condominium": 1800,
+    "iptu": 6900,
+    "featured": true,
+    "gallery": [
+      {
+        "id": "hero-pool",
+        "url": "https://images.unsplash.com/photo-1766603636617-0c71c2188160",
+        "alt": "Casa contemporânea com piscina e área de lazer",
+        "credit": "Alef Morais",
+        "source": "https://unsplash.com/photos/modern-house-with-pool-and-outdoor-lounge-area-pzVKBM1fbJk"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      },
+      {
+        "id": "pool-palms",
+        "url": "https://images.unsplash.com/photo-1763479142525-1a3b1f7800c2",
+        "alt": "Casa com piscina e palmeiras",
+        "credit": "Shoham Avisrur",
+        "source": "https://unsplash.com/photos/a-modern-house-with-a-swimming-pool-and-palm-trees-fDFWeQaHx9A"
+      }
+    ],
+    "description": [
+      "Residência exclusiva com piscina e área gourmet. Este casa em condomínio em Tamboré, Barueri, reúne 460 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 5 quartos, com 5 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com piscina, área gourmet, condomínio fechado, churrasqueira. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Tamboré, com acesso a serviços, comércio e opções de mobilidade em Barueri. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-02",
+    "demo": true
+  },
+  {
+    "code": "VER-1021",
+    "slug": "ver-1021",
+    "type": "Apartamento",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Tatuapé",
+    "price": 620000,
+    "area": 68,
+    "bedrooms": 2,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "venda",
+    "title": "Apartamento com lazer completo para toda a família",
+    "features": [
+      "Piscina",
+      "Academia",
+      "Playground",
+      "Elevador",
+      "Pet friendly"
+    ],
+    "condominium": 580,
+    "iptu": 950,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "apartment",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "alt": "Sala de apartamento com ambientes integrados",
+        "credit": "Deborah Cortelazzi",
+        "source": "https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento com lazer completo para toda a família. Este apartamento em Tatuapé, São Paulo, reúne 68 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 2 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com piscina, academia, playground, elevador. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Tatuapé, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-02",
+    "demo": true
+  },
+  {
+    "code": "VER-1022",
+    "slug": "ver-1022",
+    "type": "Casa",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Vila Jardini",
+    "price": 2900,
+    "area": 120,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "aluguel",
+    "title": "Casa térrea com quintal e garagem coberta",
+    "features": [
+      "Jardim",
+      "Pet friendly",
+      "Churrasqueira"
+    ],
+    "condominium": 0,
+    "iptu": 720,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "small-house",
+        "url": "https://images.unsplash.com/photo-1706799206215-0d2ab94623ec",
+        "alt": "Casa térrea branca com jardim",
+        "credit": "Roger Starnes Sr",
+        "source": "https://unsplash.com/photos/a-small-white-house-with-a-black-roof-qMxz8qxU83g"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Casa térrea com quintal e garagem coberta. Este casa em Vila Jardini, Sorocaba, reúne 120 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com jardim, pet friendly, churrasqueira. A área externa permite aproveitar momentos de descanso e receber amigos.",
+      "Localização em Vila Jardini, com acesso a serviços, comércio e opções de mobilidade em Sorocaba. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-02",
+    "demo": true
+  },
+  {
+    "code": "VER-1023",
+    "slug": "ver-1023",
+    "type": "Apartamento",
+    "city": "Santos",
+    "state": "SP",
+    "neighborhood": "Aparecida",
+    "price": 980000,
+    "area": 112,
+    "bedrooms": 3,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "venda",
+    "title": "Apartamento amplo com varanda e vista aberta",
+    "features": [
+      "Varanda",
+      "Vista livre",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 990,
+    "iptu": 2200,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento amplo com varanda e vista aberta. Este apartamento em Aparecida, Santos, reúne 112 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, vista livre, elevador, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Aparecida, com acesso a serviços, comércio e opções de mobilidade em Santos. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-02",
+    "demo": true
+  },
+  {
+    "code": "VER-1024",
+    "slug": "ver-1024",
+    "type": "Cobertura",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Brooklin",
+    "price": 2850000,
+    "area": 190,
+    "bedrooms": 3,
+    "suites": 3,
+    "bathrooms": 4,
+    "parking": 3,
+    "mode": "venda",
+    "title": "Cobertura com terraço privativo e ambientes amplos",
+    "features": [
+      "Varanda",
+      "Área gourmet",
+      "Churrasqueira",
+      "Academia",
+      "Piscina",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 1850,
+    "iptu": 3600,
+    "featured": true,
+    "gallery": [
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Cobertura com terraço privativo e ambientes amplos. Este cobertura em Brooklin, São Paulo, reúne 190 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 3 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, área gourmet, churrasqueira, academia. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Brooklin, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-02",
+    "demo": true
+  },
+  {
+    "code": "VER-1025",
+    "slug": "ver-1025",
+    "type": "Sala comercial",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Centro",
+    "price": 280000,
+    "area": 42,
+    "bedrooms": 0,
+    "suites": 0,
+    "bathrooms": 1,
+    "parking": 1,
+    "mode": "venda",
+    "title": "Sala comercial em endereço central",
+    "features": [
+      "Ar-condicionado",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 450,
+    "iptu": 650,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "office",
+        "url": "https://images.unsplash.com/photo-1572025442811-aa5146a780fb",
+        "alt": "Ambiente de escritório com estações de trabalho",
+        "credit": "Slidebean",
+        "source": "https://unsplash.com/photos/empty-meeting-room-6MtJ-y1hzTs"
+      }
+    ],
+    "description": [
+      "Sala comercial em endereço central. Este sala comercial em Centro, Campinas, reúne 42 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. Os ambientes permitem organizar estações de trabalho e receber clientes com praticidade.",
+      "O imóvel conta com ar-condicionado, elevador, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Centro, com acesso a serviços, comércio e opções de mobilidade em Campinas. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-01",
+    "demo": true
+  },
+  {
+    "code": "VER-1026",
+    "slug": "ver-1026",
+    "type": "Apartamento",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Campolim",
+    "price": 3300,
+    "area": 80,
+    "bedrooms": 2,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 2,
+    "mode": "aluguel",
+    "title": "Apartamento com varanda e lazer no Campolim",
+    "features": [
+      "Varanda",
+      "Academia",
+      "Piscina",
+      "Playground",
+      "Portaria 24h"
+    ],
+    "condominium": 650,
+    "iptu": 1050,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "apartment",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "alt": "Sala de apartamento com ambientes integrados",
+        "credit": "Deborah Cortelazzi",
+        "source": "https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Apartamento com varanda e lazer no Campolim. Este apartamento em Campolim, Sorocaba, reúne 80 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 2 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, academia, piscina, playground. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Campolim, com acesso a serviços, comércio e opções de mobilidade em Sorocaba. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-01",
+    "demo": true
+  },
+  {
+    "code": "VER-1027",
+    "slug": "ver-1027",
+    "type": "Casa",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Barão Geraldo",
+    "price": 1150000,
+    "area": 200,
+    "bedrooms": 3,
+    "suites": 2,
+    "bathrooms": 3,
+    "parking": 3,
+    "mode": "venda",
+    "title": "Casa com espaços generosos e jardim",
+    "features": [
+      "Jardim",
+      "Churrasqueira",
+      "Área gourmet",
+      "Pet friendly"
+    ],
+    "condominium": 0,
+    "iptu": 1700,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "brazil-house-2",
+        "url": "https://images.unsplash.com/photo-1760067537086-0f0928fa7862",
+        "alt": "Casa com fachada de madeira e pedra, outro ângulo",
+        "credit": "Alef Morais",
+        "source": "https://unsplash.com/photos/modern-house-with-wood-and-stone-exterior-FJL_wfZLE2I"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Casa com espaços generosos e jardim. Este casa em Barão Geraldo, Campinas, reúne 200 m² de área útil com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 2 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com jardim, churrasqueira, área gourmet, pet friendly. A área externa permite aproveitar momentos de descanso e receber amigos.",
+      "Localização em Barão Geraldo, com acesso a serviços, comércio e opções de mobilidade em Campinas. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-01",
+    "demo": true
+  },
+  {
+    "code": "VER-1028",
+    "slug": "ver-1028",
+    "type": "Studio",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Pinheiros",
+    "price": 480000,
+    "area": 39,
+    "bedrooms": 1,
+    "suites": 0,
+    "bathrooms": 1,
+    "parking": 0,
+    "mode": "venda",
+    "title": "Studio inteligente com excelente localização",
+    "features": [
+      "Mobiliado",
+      "Academia",
+      "Piscina",
+      "Elevador",
+      "Portaria 24h"
+    ],
+    "condominium": 490,
+    "iptu": 700,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "apartment",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "alt": "Sala de apartamento com ambientes integrados",
+        "credit": "Deborah Cortelazzi",
+        "source": "https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Studio inteligente com excelente localização. Este studio em Pinheiros, São Paulo, reúne 39 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 1 quarto, além de espaços para viver com conforto.",
+      "O imóvel conta com mobiliado, academia, piscina, elevador. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Pinheiros, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-01",
+    "demo": true
+  },
+  {
+    "code": "VER-1029",
+    "slug": "ver-1029",
+    "type": "Apartamento",
+    "city": "São Paulo",
+    "state": "SP",
+    "neighborhood": "Jardins",
+    "price": 9500,
+    "area": 145,
+    "bedrooms": 3,
+    "suites": 2,
+    "bathrooms": 3,
+    "parking": 2,
+    "mode": "aluguel",
+    "title": "Apartamento elegante com ambientes espaçosos",
+    "features": [
+      "Mobiliado",
+      "Ar-condicionado",
+      "Elevador",
+      "Portaria 24h",
+      "Pet friendly"
+    ],
+    "condominium": 1600,
+    "iptu": 2900,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "bedroom-sage",
+        "url": "https://images.unsplash.com/photo-1560184897-502a475f7a0d",
+        "alt": "Quarto com cama estofada",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/tufted-white-upholstered-bed-HD7QBx2Yfa4"
+      },
+      {
+        "id": "kitchen-open",
+        "url": "https://images.unsplash.com/photo-1560185127-2d06c6d08d3d",
+        "alt": "Cozinha com armários e bancadas",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-and-beige-kitchen-interior-lIVK3z606og"
+      }
+    ],
+    "description": [
+      "Apartamento elegante com ambientes espaçosos. Este apartamento em Jardins, São Paulo, reúne 145 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 3 quartos, com 2 suítes, além de espaços para viver com conforto.",
+      "O imóvel conta com mobiliado, ar-condicionado, elevador, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Jardins, com acesso a serviços, comércio e opções de mobilidade em São Paulo. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-01",
+    "demo": true
+  },
+  {
+    "code": "VER-1030",
+    "slug": "ver-1030",
+    "type": "Apartamento",
+    "city": "Santos",
+    "state": "SP",
+    "neighborhood": "Gonzaga",
+    "price": 760000,
+    "area": 83,
+    "bedrooms": 2,
+    "suites": 1,
+    "bathrooms": 2,
+    "parking": 1,
+    "mode": "venda",
+    "title": "Apartamento para viver perto de tudo",
+    "features": [
+      "Varanda",
+      "Elevador",
+      "Pet friendly",
+      "Portaria 24h"
+    ],
+    "condominium": 750,
+    "iptu": 1500,
+    "featured": false,
+    "gallery": [
+      {
+        "id": "living-room",
+        "url": "https://images.unsplash.com/photo-1560185127-6ed189bf02f4",
+        "alt": "Sala de estar com iluminação natural",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/living-room-interior-6japTIjUQoI"
+      },
+      {
+        "id": "living-fireplace",
+        "url": "https://images.unsplash.com/photo-1560184897-1ee3713708ee",
+        "alt": "Sala de estar ampla com lareira",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-4TlrOY2IyUA"
+      },
+      {
+        "id": "bedroom-grey",
+        "url": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8",
+        "alt": "Quarto com cama e decoração em tons de cinza",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/bedroom-with-dark-grey-walls-hCU4fimRW-c"
+      },
+      {
+        "id": "kitchen-island",
+        "url": "https://images.unsplash.com/photo-1560185008-37a6ea85a4d4",
+        "alt": "Cozinha com ilha central",
+        "credit": "Francesca Tosolini",
+        "source": "https://unsplash.com/photos/brown-kitchen-cabinet-with-kitchen-island-ykHFS4Ul64U"
+      }
+    ],
+    "description": [
+      "Apartamento para viver perto de tudo. Este apartamento em Gonzaga, Santos, reúne 83 m² de área privativa com uma distribuição pensada para aproveitar cada ambiente. São 2 quartos, com 1 suíte, além de espaços para viver com conforto.",
+      "O imóvel conta com varanda, elevador, pet friendly, portaria 24h. A estrutura do condomínio oferece praticidade no dia a dia e espaços para aproveitar seu tempo livre.",
+      "Localização em Gonzaga, com acesso a serviços, comércio e opções de mobilidade em Santos. Fale com a equipe para conhecer os detalhes e preparar sua visita."
+    ],
+    "created": "2026-10-01",
+    "demo": true
+  }
+]
